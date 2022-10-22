@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my master thesis in detecting Railway tracks with convolutional neural networks.
-- 🌱 I’m currently learning to use Cloud services. I think it is a must for training NN effectively.
+- 🔭 I’m currently working as a Data Engineer at Marc O'Polos' Data and AI task-force.
+- 🌱 I’m currently learning how to provide Data from different source systems in a business-semantic context.
 - 📫 How to reach me: flo.max.hofstetter@gmail.com
